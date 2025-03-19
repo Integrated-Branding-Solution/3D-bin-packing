@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "3D-bin-packing"
+version = "0.1.0"
+description = "3D bin packing implementation"
+authors = ["Daniel Montecillo <daniel.montecillo@montecillo.ca>"]
+
+[tool.poetry.dependencies]
+python = "==3.6.5"
+numpy = "==1.19.5"
+matplotlib = "==3.3.4"
+Flask = "==2.2.5"
+Flask-Cors = "==3.0.10"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
