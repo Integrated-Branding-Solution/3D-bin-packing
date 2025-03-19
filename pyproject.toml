@@ -7,8 +7,6 @@ authors = ["Daniel Montecillo <daniel.montecillo@montecillo.ca>"]
 [tool.poetry.dependencies]
 numpy = ">=1.23.2"
 matplotlib = "==3.3.4"
-Flask = "==2.2.5"
-Flask-Cors = "==3.0.10"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
