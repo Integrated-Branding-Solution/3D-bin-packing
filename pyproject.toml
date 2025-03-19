@@ -5,7 +5,6 @@ description = "3D bin packing implementation"
 authors = ["Daniel Montecillo <daniel.montecillo@montecillo.ca>"]
 
 [tool.poetry.dependencies]
-python = "==3.6.5"
 numpy = "==1.19.5"
 matplotlib = "==3.3.4"
 Flask = "==2.2.5"
